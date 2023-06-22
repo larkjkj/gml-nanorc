@@ -20,14 +20,10 @@ if keyboard_check_pressed(ord("X"))
 	x -= 1;
 	y += 1;
 }
-
-***it will be colored :)
-
 How to install?
 
 1 . Clone the repo
-```git clone http![Peek 21-06-2023 23-10](https://github.com/larkjkj/gml-nanorc/assets/87050595/399b6e61-8db5-43a2-a5fd-e7d0c906f6d5)
-s://github.com/larkjkj/gml-nanorc/.git```
+```://github.com/larkjkj/gml-nanorc/.git```
 
 2. Run on to grantee nothing will go wrong with the script(install.sh)
 ```sudo -i```
