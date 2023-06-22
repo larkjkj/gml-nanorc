@@ -23,7 +23,7 @@ if keyboard_check_pressed(ord("X"))
 How to install?
 
 1 . Clone the repo
-```://github.com/larkjkj/gml-nanorc/.git```
+```git clone https://github.com/larkjkj/gml-nanorc/.git```
 
 2. Run on to grantee nothing will go wrong with the script(install.sh)
 ```sudo -i```
