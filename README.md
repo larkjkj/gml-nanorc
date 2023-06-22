@@ -11,15 +11,7 @@
 ```
 
 Basically, a gml theme for NANO text editor(Linux or WSL)
-*/
 
-
-if keyboard_check_pressed(ord("X"))
-{
-	acos = cos(degtorad(image_angle);;
-	x -= 1;
-	y += 1;
-}
 How to install?
 
 1 . Clone the repo
