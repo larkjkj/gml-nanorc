@@ -1,4 +1,4 @@
-![Peek 21-06-2023 23-10](https://github.com/larkjkj/gml-nanorc/assets/87050595/c18e71c4-5789-4a7c-afad-663c85eb9b0a)
+![Peek 21-06-2023 23-13](https://github.com/larkjkj/gml-nanorc/assets/87050595/36e7de79-7805-42fc-bcf1-4edbc0b1a7eb)]
 ```
 
    @@@@@@@@      @@         @@    @
